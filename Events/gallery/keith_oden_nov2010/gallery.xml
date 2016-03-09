@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	cropToFit="false"
+	useFlickr="false"
+	resizeOnImport="true"
+	thumbPosition="BOTTOM"
+	thumbRows="1"
+	thumbColumns="5"
+	showOpenButton="true"
+	showFullscreenButton="true"
+	frameColor="000000"
+	frameWidth="5"
+	backgroundTransparent="false"
+	useFlash="true"
+	indexPageName="keith_oden_nov10_gallery.html"
+
+>
+  <image imageURL="images/IMG_6039.JPG"
+	thumbURL="thumbs/IMG_6039.JPG"
+	linkURL="images/IMG_6039.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[November 10, 2010]]></caption>
+  </image>
+  <image imageURL="images/IMG_6040.JPG"
+	thumbURL="thumbs/IMG_6040.JPG"
+	linkURL="images/IMG_6040.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[November 10, 2010]]></caption>
+  </image>
+  <image imageURL="images/IMG_6041.JPG"
+	thumbURL="thumbs/IMG_6041.JPG"
+	linkURL="images/IMG_6041.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[November 10, 2010]]></caption>
+  </image>
+  <image imageURL="images/IMG_6059.JPG"
+	thumbURL="thumbs/IMG_6059.JPG"
+	linkURL="images/IMG_6059.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[November 10, 2010]]></caption>
+  </image>
+  <image imageURL="images/IMG_6056.JPG"
+	thumbURL="thumbs/IMG_6056.JPG"
+	linkURL="images/IMG_6056.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[November 10, 2010]]></caption>
+  </image>
+</simpleviewergallery>

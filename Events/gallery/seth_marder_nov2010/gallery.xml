@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	thumbPosition="BOTTOM"
+	thumbRows="1"
+	thumbColumns="5"
+	showOpenButton="true"
+	showFullscreenButton="true"
+	frameColor="000000"
+	frameWidth="5"
+	indexPageName="seth_marder_gallery.html"
+
+>
+  <image imageURL="images/IMG_6063.JPG"
+	thumbURL="thumbs/IMG_6063.JPG"
+	linkURL="images/IMG_6063.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_6065.JPG"
+	thumbURL="thumbs/IMG_6065.JPG"
+	linkURL="images/IMG_6065.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_6066.JPG"
+	thumbURL="thumbs/IMG_6066.JPG"
+	linkURL="images/IMG_6066.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_6068.JPG"
+	thumbURL="thumbs/IMG_6068.JPG"
+	linkURL="images/IMG_6068.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_6069.JPG"
+	thumbURL="thumbs/IMG_6069.JPG"
+	linkURL="images/IMG_6069.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+</simpleviewergallery>

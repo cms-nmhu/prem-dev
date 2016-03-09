@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	thumbPosition="BOTTOM"
+	thumbRows="1"
+	thumbColumns="5"
+	showOpenButton="true"
+	showFullscreenButton="true"
+	frameColor="000000"
+	frameWidth="5"
+	indexPageName="luis_echegoyen_gallery.html"
+
+>
+  <image imageURL="images/IMG_1508.JPG"
+	thumbURL="thumbs/IMG_1508.JPG"
+	linkURL="images/IMG_1508.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1511.JPG"
+	thumbURL="thumbs/IMG_1511.JPG"
+	linkURL="images/IMG_1511.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1520.JPG"
+	thumbURL="thumbs/IMG_1520.JPG"
+	linkURL="images/IMG_1520.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+    <image imageURL="images/IMG_1521.JPG"
+	thumbURL="thumbs/IMG_1521.JPG"
+	linkURL="images/IMG_1521.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+    <image imageURL="images/IMG_1523.JPG"
+	thumbURL="thumbs/IMG_1523.JPG"
+	linkURL="images/IMG_1523.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+    <image imageURL="images/IMG_1525.JPG"
+	thumbURL="thumbs/IMG_1525.JPG"
+	linkURL="images/IMG_1525.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+</simpleviewergallery>

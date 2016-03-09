@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	thumbPosition="BOTTOM"
+	thumbRows="1"
+	thumbColumns="5"
+	showOpenButton="true"
+	showFullscreenButton="true"
+	frameColor="000000"
+	frameWidth="5"
+	indexPageName="denver_gallery.html"
+
+>
+  <image imageURL="images/IMG_4579.JPG"
+	thumbURL="thumbs/IMG_4579.JPG"
+	linkURL="images/IMG_4579.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_4716.JPG"
+	thumbURL="thumbs/IMG_4716.JPG"
+	linkURL="images/IMG_4716.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_4802.JPG"
+	thumbURL="thumbs/IMG_4802.JPG"
+	linkURL="images/IMG_4802.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+    <image imageURL="images/IMG_4815.JPG"
+	thumbURL="thumbs/IMG_4815.JPG"
+	linkURL="images/IMG_4815.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+    <image imageURL="images/IMG_4829.JPG"
+	thumbURL="thumbs/IMG_4829.JPG"
+	linkURL="images/IMG_4829.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+    <image imageURL="images/IMG_4835.JPG"
+	thumbURL="thumbs/IMG_4835.JPG"
+	linkURL="images/IMG_4835.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+    <image imageURL="images/IMG_4897.JPG"
+	thumbURL="thumbs/IMG_4897.JPG"
+	linkURL="images/IMG_4897.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+    <image imageURL="images/IMG_4902.JPG"
+	thumbURL="thumbs/IMG_4902.JPG"
+	linkURL="images/IMG_4902.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+    <image imageURL="images/IMG_4912.JPG"
+	thumbURL="thumbs/IMG_4912.JPG"
+	linkURL="images/IMG_4912.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+    <image imageURL="images/IMG_5140.JPG"
+	thumbURL="thumbs/IMG_5140.JPG"
+	linkURL="images/IMG_5140.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+    <image imageURL="images/IMG_5223.JPG"
+	thumbURL="thumbs/IMG_5223.JPG"
+	linkURL="images/IMG_5223.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+</simpleviewergallery>

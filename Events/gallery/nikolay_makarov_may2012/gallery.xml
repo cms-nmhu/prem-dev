@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	thumbPosition="BOTTOM"
+	thumbRows="1"
+	thumbColumns="5"
+	showOpenButton="true"
+	showFullscreenButton="true"
+	frameColor="000000"
+	frameWidth="5"
+	indexPageName="nikolay_makarov_gallery.html"
+
+>
+  <image imageURL="images/Photo8333.JPG"
+	thumbURL="thumbs/Photo8333.JPG"
+	linkURL="images/Photo8333.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Photo8340.JPG"
+	thumbURL="thumbs/Photo8340.JPG"
+	linkURL="images/Photo8340.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+</simpleviewergallery>

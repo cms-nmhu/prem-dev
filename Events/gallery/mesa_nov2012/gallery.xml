@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	thumbPosition="BOTTOM"
+	thumbRows="1"
+	thumbColumns="5"
+	showOpenButton="true"
+	showFullscreenButton="true"
+	frameColor="000000"
+	frameWidth="5"
+	indexPageName="mesa_gallery.html"
+
+>
+  <image imageURL="images/IMG_8953.JPG"
+	thumbURL="thumbs/IMG_8953.JPG"
+	linkURL="images/IMG_8953.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_9003.JPG"
+	thumbURL="thumbs/IMG_9003.JPG"
+	linkURL="images/IMG_9003.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_9050.JPG"
+	thumbURL="thumbs/IMG_9050.JPG"
+	linkURL="images/IMG_9050.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+    <image imageURL="images/IMG_9061.JPG"
+	thumbURL="thumbs/IMG_9061.JPG"
+	linkURL="images/IMG_9061.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+    <image imageURL="images/IMG_9070.JPG"
+	thumbURL="thumbs/IMG_9070.JPG"
+	linkURL="images/IMG_9070.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+    <image imageURL="images/IMG_9094.JPG"
+	thumbURL="thumbs/IMG_9094.JPG"
+	linkURL="images/IMG_9094.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+    <image imageURL="images/IMG_9097.JPG"
+	thumbURL="thumbs/IMG_9097.JPG"
+	linkURL="images/IMG_9097.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+    <image imageURL="images/IMG_9130.JPG"
+	thumbURL="thumbs/IMG_9130.JPG"
+	linkURL="images/IMG_9130.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+    <image imageURL="images/IMG_9164.JPG"
+	thumbURL="thumbs/IMG_9164.JPG"
+	linkURL="images/IMG_9164.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+    <image imageURL="images/IMG_9200.JPG"
+	thumbURL="thumbs/IMG_9200.JPG"
+	linkURL="images/IMG_9200.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+    <image imageURL="images/IMG_9337.JPG"
+	thumbURL="thumbs/IMG_9337.JPG"
+	linkURL="images/IMG_9337.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+    <image imageURL="images/IMG_9343.JPG"
+	thumbURL="thumbs/IMG_9343.JPG"
+	linkURL="images/IMG_9343.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+    <image imageURL="images/IMG_9375.JPG"
+	thumbURL="thumbs/IMG_9375.JPG"
+	linkURL="images/IMG_9375.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+</simpleviewergallery>

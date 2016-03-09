@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	thumbPosition="BOTTOM"
+	thumbRows="1"
+	thumbColumns="5"
+	showOpenButton="true"
+	showFullscreenButton="true"
+	frameColor="000000"
+	frameWidth="5"
+	indexPageName="qiang_wei_gallery.html"
+
+>
+  <image imageURL="images/IMG_1464.JPG"
+	thumbURL="thumbs/IMG_1464.JPG"
+	linkURL="images/IMG_1464.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1472.JPG"
+	thumbURL="thumbs/IMG_1472.JPG"
+	linkURL="images/IMG_1472.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1480.JPG"
+	thumbURL="thumbs/IMG_1480.JPG"
+	linkURL="images/IMG_1480.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+</simpleviewergallery>

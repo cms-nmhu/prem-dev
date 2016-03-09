@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	thumbPosition="BOTTOM"
+	thumbRows="1"
+	thumbColumns="5"
+	showOpenButton="true"
+	showFullscreenButton="true"
+	frameColor="000000"
+	frameWidth="5"
+	indexPageName="magic_gallery.html"
+
+>
+  <image imageURL="images/IMG_1036.JPG"
+	thumbURL="thumbs/IMG_1036.JPG"
+	linkURL="images/IMG_1036.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1040.JPG"
+	thumbURL="thumbs/IMG_1040.JPG"
+	linkURL="images/IMG_1040.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1041.JPG"
+	thumbURL="thumbs/IMG_1041.JPG"
+	linkURL="images/IMG_1041.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+    <image imageURL="images/IMG_1048.JPG"
+	thumbURL="thumbs/IMG_1048.JPG"
+	linkURL="images/IMG_1048.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+    <image imageURL="images/IMG_1051.JPG"
+	thumbURL="thumbs/IMG_1051.JPG"
+	linkURL="images/IMG_1051.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+    <image imageURL="images/IMG_1052.JPG"
+	thumbURL="thumbs/IMG_1052.JPG"
+	linkURL="images/IMG_1052.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+    <image imageURL="images/IMG_1093.JPG"
+	thumbURL="thumbs/IMG_1093.JPG"
+	linkURL="images/IMG_1093.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+    <image imageURL="images/IMG_1099.JPG"
+	thumbURL="thumbs/IMG_1099.JPG"
+	linkURL="images/IMG_1099.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+</simpleviewergallery>

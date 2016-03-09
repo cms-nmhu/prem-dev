@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	thumbPosition="BOTTOM"
+	thumbRows="1"
+	thumbColumns="5"
+	showOpenButton="true"
+	showFullscreenButton="true"
+	frameColor="000000"
+	frameWidth="5"
+	indexPageName="nikolay_makarov_gallery.html"
+
+>
+  <image imageURL="images/DSC_1478.JPG"
+	thumbURL="thumbs/DSC_1478.JPG"
+	linkURL="images/DSC_1478.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_1479.JPG"
+	thumbURL="thumbs/DSC_1479.JPG"
+	linkURL="images/DSC_1479.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_1481.JPG"
+	thumbURL="thumbs/DSC_1481.JPG"
+	linkURL="images/DSC_1481.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+    <image imageURL="images/DSC_1482.JPG"
+	thumbURL="thumbs/DSC_1482.JPG"
+	linkURL="images/DSC_1482.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+    <image imageURL="images/DSC_1483.JPG"
+	thumbURL="thumbs/DSC_1483.JPG"
+	linkURL="images/DSC_1483.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+    <image imageURL="images/DSC_1488.JPG"
+	thumbURL="thumbs/DSC_1488.JPG"
+	linkURL="images/DSC_1488.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+</simpleviewergallery>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	thumbPosition="BOTTOM"
+	thumbRows="1"
+	thumbColumns="5"
+	showOpenButton="true"
+	showFullscreenButton="true"
+	frameColor="000000"
+	frameWidth="5"
+	indexPageName="yulia_getmanenko_gallery.html"
+
+>
+  <image imageURL="images/IMG_8192.JPG"
+	thumbURL="thumbs/IMG_8192.JPG"
+	linkURL="images/IMG_8192.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8195.JPG"
+	thumbURL="thumbs/IMG_8195.JPG"
+	linkURL="images/IMG_8195.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8196.JPG"
+	thumbURL="thumbs/IMG_8196.JPG"
+	linkURL="images/IMG_8196.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+</simpleviewergallery>

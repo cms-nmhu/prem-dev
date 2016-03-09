@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	thumbPosition="BOTTOM"
+	thumbRows="1"
+	thumbColumns="5"
+	showOpenButton="true"
+	showFullscreenButton="true"
+	frameColor="000000"
+	frameWidth="5"
+	indexPageName="socorro_gallery.html"
+
+>
+  <image imageURL="images/IMG_7837.JPG"
+	thumbURL="thumbs/IMG_7837.JPG"
+	linkURL="images/IMG_7837.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_7906.JPG"
+	thumbURL="thumbs/IMG_7906.JPG"
+	linkURL="images/IMG_7906.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_7970.JPG"
+	thumbURL="thumbs/IMG_7970.JPG"
+	linkURL="images/IMG_7970.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+    <image imageURL="images/IMG_7976.JPG"
+	thumbURL="thumbs/IMG_7976.JPG"
+	linkURL="images/IMG_7976.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+    <image imageURL="images/IMG_7987.JPG"
+	thumbURL="thumbs/IMG_7987.JPG"
+	linkURL="images/IMG_7987.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+    <image imageURL="images/IMG_7992.JPG"
+	thumbURL="thumbs/IMG_7992.JPG"
+	linkURL="images/IMG_7992.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+    <image imageURL="images/IMG_8164.JPG"
+	thumbURL="thumbs/IMG_8164.JPG"
+	linkURL="images/IMG_8164.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+    <image imageURL="images/IMG_8173.JPG"
+	thumbURL="thumbs/IMG_8173.JPG"
+	linkURL="images/IMG_8173.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+    <image imageURL="images/IMG_8177.JPG"
+	thumbURL="thumbs/IMG_8177.JPG"
+	linkURL="images/IMG_8177.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+    <image imageURL="images/IMG_8185.JPG"
+	thumbURL="thumbs/IMG_8185.JPG"
+	linkURL="images/IMG_8185.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+</simpleviewergallery>

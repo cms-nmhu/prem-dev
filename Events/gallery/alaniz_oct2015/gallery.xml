@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	thumbPosition="BOTTOM"
+	thumbRows="1"
+	thumbColumns="5"
+	showOpenButton="true"
+	showFullscreenButton="true"
+	frameColor="000000"
+	frameWidth="5"
+	indexPageName="gallery.html"
+
+>
+  <image imageURL="images/1.JPG"
+	thumbURL="thumbs/1.JPG"
+	linkURL="images/1.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2.JPG"
+	thumbURL="thumbs/2.JPG"
+	linkURL="images/2.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/3.JPG"
+	thumbURL="thumbs/3.JPG"
+	linkURL="images/3.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>  
+  <image imageURL="images/4.JPG"
+	thumbURL="thumbs/4.JPG"
+	linkURL="images/4.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/5.JPG"
+	thumbURL="thumbs/5.JPG"
+	linkURL="images/5.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/6.JPG"
+	thumbURL="thumbs/6.JPG"
+	linkURL="images/6.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>  
+</simpleviewergallery>
