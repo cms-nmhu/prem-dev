@@ -1,7 +1,0 @@
-Name: Nagakeerthi Dasari
-	Graduate Student
-
-Contact Info: ndasari@live.nmhu.edu
-
-Description: Molecular modeling of crystal structures.
-	    
