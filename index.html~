@@ -306,17 +306,14 @@ body {
 <!-- end #menu -->
 <div id="page">
 		
-  <h3><center><a href="http://cs.nmhu.edu/prem2/" target="_blank">New PREM 2015</a></center></h3>
-
-  <div class="post">
+		  <div class="post">
 	    
-	<div id="home_page_intro" class="post style1 style3"> In August 2009 NMHU received funding from National Science Foundation NSF ($2.7M for 5 years) to conduct project &quot;Light Matter Interactions: Theory and Applications&quot; (LMITA) in frameworks of PREM program in collaboration with Georgia Institute of Technology and Morehouse College. The objective of the <a  href="http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5439&amp;org=DMR">PREM</a> program is to broaden participation and enhance diversity in materials research and education by stimulating the development of formal, long-term, multi-investigator, collaborative research and education partnerships between minority*-serving colleges and universities, women's colleges, groups that are underrepresented in science, technology, engineering, and mathematics <a href="http://www.stemedcoalition.org/">STEM</a> and the <a href="http://www.nsf.gov/">NSF</a> Division of Materials Research <a href="http://www.nsf.gov/div/index.jsp?div=DMR">DMR</a>-supported centers and/or facilities.</div>
-    <br>
+			<div id="home_page_intro" class="post style1 style3"> In August 2009 NMHU received funding from National Science Foundation NSF ($2.7M for 5 years) to conduct project &quot;Light Matter Interactions: Theory and Applications&quot; (LMITA) in frameworks of PREM program in collaboration with Georgia Institute of Technology and Morehouse College. The objective of the <a  href="http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5439&amp;org=DMR">PREM</a> program is to broaden participation and enhance diversity in materials research and education by stimulating the development of formal, long-term, multi-investigator, collaborative research and education partnerships between minority*-serving colleges and universities, women's colleges, groups that are underrepresented in science, technology, engineering, and mathematics <a href="http://www.stemedcoalition.org/">STEM</a> and the <a href="http://www.nsf.gov/">NSF</a> Division of Materials Research <a href="http://www.nsf.gov/div/index.jsp?div=DMR">DMR</a>-supported centers and/or facilities.</div>
+
   </div>
-	
-	<div><img src="images/board.jpg" width="749" height="542"><br></div>	
+		
 				
-	<!--<div class="entry"><img src="images/management_team_no_text.png" width="750" height="550" /></div>
+	<div class="entry"><img src="images/management_team_no_text.png" width="750" height="550" /></div>
 	<div class="manage_team_text" style="font-size:19px; top:203px; left:33px">
 	Broader Impact Program</div>
 	<div class="manage_team_text" style="font-size:14px; top:247px; left:60px">
@@ -425,7 +422,7 @@ body {
 	<div class="manage_team_text" style="font-size:14px; top:595px; left:399px">
 	Fiscal, website,</div>
 	<div class="manage_team_text" style="font-size:14px; top:612px; left:405px">
-	tech transfer</div>-->
+	tech transfer</div>
 	
 </div>
 </div>
